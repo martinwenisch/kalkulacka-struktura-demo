@@ -1,5 +1,3 @@
-import Card from "./src/card.vue";
-import Gradient from "./src/gradient.vue";
-import Page from "./src/page.vue";
+import AvatarComponent from "./src/avatar-component.vue";
 
-export { Card, Gradient, Page };
+export { AvatarComponent };
